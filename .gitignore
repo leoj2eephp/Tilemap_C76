@@ -1,0 +1,37 @@
+# Unity generated files that should not be tracked by Git.
+
+# === Project Settings ===
+/[Oo]bj/
+/[Bb]uild/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Uu]serSettings/
+
+# === Visual Studio ===
+/.vscode/
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.tmp
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+
+# === OS generated ===
+.DS_Store
+*.swp
+*.lock
+*.log
+*.log.*
+*.sublime-workspace
+
+# === Others ===
+/Builds/
+/Assets/StreamingAssets/*.apk
+*.pidb.meta
+*.pidb
